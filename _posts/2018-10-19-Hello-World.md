@@ -1,5 +1,5 @@
 ---
 layout: post
-title: Hello Worl
+title: Hello World
 ---
 Test
